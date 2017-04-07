@@ -1,5 +1,8 @@
 
-
+#browse-carousel {
+    max-width: 300px;
+    margin: auto;
+}
 
 
 .jumbotron {
@@ -22,7 +25,22 @@
 
 
 #section-watchlist ul {
+	text-align: left;
+}
+.well{
+	background-color: red;
+	color: white;
+	border-width: 0px;
+}
+.img-responsive{
 	text-align: center;
+}
+#add-to-watchlist {
+	width: 100%;
+}
+
+.carousel-inner {
+	padding-left: 0px;
 }
 
 
