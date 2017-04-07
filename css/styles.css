@@ -37,6 +37,10 @@
 #section-browse form {
 	margin-bottom: 2%;
 }
+#browse-carousel {
+    max-width: 300px;
+    margin: auto;
+}
 
 section header {
 	margin-bottom: 10px;
